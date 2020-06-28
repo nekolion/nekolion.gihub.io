@@ -14,7 +14,7 @@ AdobeXDを使った視覚的なUI/UXデザインも最近はじめました。
 - 得意領域（HTML/CSSコーディング、デザイン）
 
 ### Software
-Adobe
+#### Adobe
 - Photoshop
 - Illustrator
 - AdobeXD
@@ -22,23 +22,24 @@ Adobe
 - AfterEffects
 - PremirePro
 
-Office365
+#### Office365
 - Word
 - Excel
 - PowerPoint
 - Teams
 - Planner
 
-Editor
+#### Editor
 -Visual studio code
 
-OS
+#### OS
 - Linux(vagrant+VM+ubuntu)
 - Windows10
 
-Other
+#### Other
 - Github
 - sourcetree
+- PostgreSQL
 
 ### Language
 - HTML
@@ -46,3 +47,15 @@ Other
 - javascript
 - PHP(Wordpress)
 - Typescript
+
+### Engine,Frameworks
+- node.js
+- Express
+
+### Works
+- 準備中
+
+### History
+- 2019 2　SESとして 入社
+- 2019 10 Webアプリ開発として 入社
+
