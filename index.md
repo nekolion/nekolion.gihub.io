@@ -36,7 +36,7 @@ AdobeXDを使った視覚的なUI/UXデザインも最近はじめました。
 - Planner
 
 #### Editor
--Visual studio code
+- Visual studio code
 
 #### OS
 - Linux(vagrant+VM+ubuntu)
