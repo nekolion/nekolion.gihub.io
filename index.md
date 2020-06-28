@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/nekolion/nekolion.gihub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+フルスタックエンジニアを目指すフロントエンジニア兼デザイナーです！
+主にWebアプリ開発やサイト制作、DTP制作をメインに仕事をしています。
+AdobeXDを使った視覚的なUI/UXデザインも最近はじめました。
+プライベートではプログラミングの他に、ゲーム制作、デザイン、イラスト等を広く浅く活動しています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+得意なのはデザイン全般ですが、
+最終的には自己完結できるようになりたいため、プログラミングを少しづつ覚えています。
 
-### Markdown
+## Profile
+- 山川　かおり
+- 生まれから育ちまで千葉県民（たまに三重県民）
+- 得意領域（HTML/CSSコーディング、デザイン）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software
+Adobe
+- Photoshop
+- Illustrator
+- AdobeXD
+- AnimateCC
+- AfterEffects
+- PremirePro
 
-```markdown
-Syntax highlighted code block
+Office365
+- Word
+- Excel
+- PowerPoint
+- Teams
+- Planner
 
-# Header 1
-## Header 2
-### Header 3
+Editor
+-Visual studio code
 
-- Bulleted
-- List
+OS
+- Linux(vagrant+VM+ubuntu)
+- Windows10
 
-1. Numbered
-2. List
+Other
+- Github
+- sourcetree
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nekolion/nekolion.gihub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Language
+- HTML
+- CSS
+- javascript
+- PHP(Wordpress)
+- Typescript
