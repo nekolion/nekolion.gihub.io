@@ -20,7 +20,7 @@ AdobeXDを使った視覚的なUI/UXデザインも最近はじめました。
 
 
 ### Software
-#### Adobe
+#### AdobeCC
 - Photoshop
 - Illustrator
 - AdobeXD
